@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\SMS\SMS\bin\Debug\SMS.exe.config
+C:\Users\acer\source\repos\SMS\SMS\bin\Debug\SMS.exe
+C:\Users\acer\source\repos\SMS\SMS\bin\Debug\SMS.pdb
+C:\Users\acer\source\repos\SMS\SMS\obj\Debug\SMS.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\SMS\SMS\obj\Debug\SMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\source\repos\SMS\SMS\obj\Debug\SMS.FrmLogin.resources
+C:\Users\acer\source\repos\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+C:\Users\acer\source\repos\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\SMS\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\SMS\SMS\obj\Debug\SMS.exe
+C:\Users\acer\source\repos\SMS\SMS\obj\Debug\SMS.pdb
+C:\Users\acer\source\repos\SMS\SMS\obj\Debug\SMS.FrmMain.resources
+C:\Users\acer\source\repos\SMS\SMS\obj\Debug\SMS.FrmStudent.resources
